@@ -30,7 +30,7 @@ mako notifications, the mouse cursor, and the app icon set.
 Requires: Hyprland, Quickshell, kitty, mako, hyprlock, hypridle, hyprpaper, Python 3 (with Pillow for the generator scripts).
 
 ```sh
-git clone https://github.com/<you>/fossil-rice && cd fossil-rice
+git clone https://github.com/courtneyslittlecorner/fossil-rice && cd fossil-rice
 cp -a hypr quickshell quickshell-screensaver kitty mako ~/.config/
 cp -a icons/. ~/.local/share/icons/
 cp gtk/.gtkrc-2.0 ~/
