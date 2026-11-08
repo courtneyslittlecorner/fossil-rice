@@ -1,0 +1,83 @@
+{
+    "apps": {
+        "Audacity": {
+            "execCommand": [
+                "env",
+                "GDK_BACKEND=x11",
+                "audacity"
+            ],
+            "icon": "audacity",
+            "name": "Audacity"
+        },
+        "Backroom Studio": {
+            "execCommand": [
+                "/opt/google/chrome/google-chrome",
+                "--profile-directory=Default",
+                "--app=https://claude.ai/artifact/9UwpPTHQMN8c2EQcaBsVEe"
+            ],
+            "icon": "backroom-studio",
+            "name": "Backroom Studio"
+        },
+        "Canvas": {
+            "execCommand": [
+                "/opt/google/chrome/google-chrome",
+                "--profile-directory=Profile 2",
+                "--app-id=facgpafkeohgffkpdonohienihjeopbm"
+            ],
+            "icon": "canvas",
+            "name": "Canvas"
+        },
+        "Check Out Austin": {
+            "execCommand": [
+                "sh",
+                "-c",
+                "cd /home/courtney/check-out-austin && exec .venv/bin/python main.py"
+            ],
+            "icon": "check-out-austin",
+            "name": "Check Out Austin"
+        },
+        "Files": {
+            "execCommand": [
+                "nemo"
+            ],
+            "icon": "system-file-manager",
+            "name": "Files"
+        },
+        "Google Chrome": {
+            "execCommand": [
+                "/usr/bin/google-chrome-stable"
+            ],
+            "icon": "google-chrome",
+            "name": "Google Chrome"
+        },
+        "Minecraft Bedrock Launcher": {
+            "execCommand": [
+                "/usr/bin/flatpak",
+                "run",
+                "--branch=stable",
+                "--arch=x86_64",
+                "--command=mcpelauncher-ui-qt",
+                "--file-forwarding",
+                "io.mrarm.mcpelauncher",
+                "@@u",
+                "@@"
+            ],
+            "icon": "io.mrarm.mcpelauncher",
+            "name": "Minecraft Bedrock Launcher"
+        },
+        "Rhythmbox": {
+            "execCommand": [
+                "rhythmbox"
+            ],
+            "icon": "org.gnome.Rhythmbox3",
+            "name": "Rhythmbox"
+        },
+        "The Bonebed Trail": {
+            "execCommand": [
+                "/home/courtney/bonebed-trail/launch.sh"
+            ],
+            "icon": "bonebed-trail",
+            "name": "The Bonebed Trail"
+        }
+    }
+}

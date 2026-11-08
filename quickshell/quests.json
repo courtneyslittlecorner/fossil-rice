@@ -1,0 +1,127 @@
+{
+    "history": [
+        {
+            "completedAt": "2026-11-06T23:45:51.300Z",
+            "mana": 45,
+            "title": "Journal Prompt #12: What Shapes Opportunity? · ETHN-1 · due Sun Nov 8",
+            "xp": 45
+        },
+        {
+            "completedAt": "2026-11-06T21:58:47.950Z",
+            "mana": 40,
+            "title": "Unit Quiz #3: The Fields of Ethnic Studies · ETHN-1 · due Sun Nov 8",
+            "xp": 40
+        },
+        {
+            "completedAt": "2026-11-06T17:45:44.317Z",
+            "title": "Restore the keyboard to Hyprland"
+        },
+        {
+            "completedAt": "2026-11-06T17:45:31.213Z",
+            "title": "Summon the lost sidebars"
+        },
+        {
+            "completedAt": "2026-11-06T17:44:59.612Z",
+            "title": "Post your first real quest below"
+        }
+    ],
+    "mana": 200,
+    "quests": [
+        {
+            "canvasUid": "event-assignment-2154826",
+            "done": false,
+            "due": "2026-11-08T23:59:59.999999-08:00",
+            "id": "cv2154826",
+            "title": "Extra Credit Assignment; Ethnic Studies In Practice · ETHN-1 · due Sun Nov 8"
+        },
+        {
+            "canvasUid": "event-assignment-2154827",
+            "done": false,
+            "due": "2026-11-08T23:59:59.999999-08:00",
+            "id": "cv2154827",
+            "title": "Extra Credit Opportunity: Ethnic Studies in Popular Culture · ETHN-1 · due Sun Nov 8"
+        },
+        {
+            "canvasUid": "event-assignment-2154828",
+            "done": false,
+            "due": "2026-11-08T23:59:59.999999-08:00",
+            "id": "cv2154828",
+            "title": "Video Discussion Post #12; How does Inequality get Built? · ETHN-1 · due Sun Nov 8"
+        },
+        {
+            "canvasUid": "event-assignment-2140522",
+            "done": false,
+            "due": "2026-11-09T12:00:00-08:00",
+            "id": "cv2140522",
+            "title": "BLUE · ART-15 · due Mon Nov 9 12:00pm"
+        },
+        {
+            "canvasUid": "event-assignment-2140529",
+            "done": false,
+            "due": "2026-11-09T12:00:00-08:00",
+            "id": "cv2140529",
+            "title": "Color Paper Value Sequence · ART-15 · due Mon Nov 9 12:00pm"
+        },
+        {
+            "canvasUid": "event-assignment-2140540",
+            "done": false,
+            "due": "2026-11-09T12:00:00-08:00",
+            "id": "cv2140540",
+            "title": "Exercise 02: Nine Step Value Scale · ART-15 · due Mon Nov 9 12:00pm"
+        },
+        {
+            "canvasUid": "event-assignment-2140506",
+            "done": false,
+            "due": "2026-11-09T23:59:59.999999-08:00",
+            "id": "cv2140506",
+            "title": "Color and Emotions · ART-15 · due Mon Nov 9"
+        },
+        {
+            "canvasUid": "event-assignment-2152777",
+            "done": false,
+            "due": "2026-12-13T23:59:59.999999-08:00",
+            "id": "cv2152777",
+            "title": "ZINE PROJECT: TELL YOUR STORY, DISRUPT THE NARRATIVE · ETHN-1 · due Sun Dec 13"
+        }
+    ],
+    "questsFolded": true,
+    "rewards": [
+        {
+            "done": false,
+            "id": "mw59tjtys7y5",
+            "title": "Ice Cream"
+        },
+        {
+            "cost": 100,
+            "done": false,
+            "id": "mw5hhukalq42",
+            "title": "Thrifting Trip"
+        },
+        {
+            "cost": 1000,
+            "done": false,
+            "id": "mw5hir91hzk5",
+            "title": "New Fossil (over $100)"
+        },
+        {
+            "cost": 50,
+            "done": false,
+            "id": "mw5hkb8ua175",
+            "title": "Pretzel Bites"
+        },
+        {
+            "cost": 400,
+            "done": false,
+            "id": "mw5hkmxpp7t4",
+            "title": "New Tabis"
+        },
+        {
+            "cost": 80,
+            "done": false,
+            "id": "mw7zr08kuyf7",
+            "title": "Pizza Party"
+        }
+    ],
+    "rewardsFolded": true,
+    "xp": 115
+}

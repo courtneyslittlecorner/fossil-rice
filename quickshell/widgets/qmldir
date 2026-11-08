@@ -1,0 +1,16 @@
+module Widgets
+WidgetScreen 1.0 WidgetScreen.qml
+WeatherWidget 1.0 WeatherWidget.qml
+ClockWidget 1.0 ClockWidget.qml
+CPUTemperatureWidget 1.0 CPUTemperatureWidget.qml
+QuestBoardWidget 1.0 QuestBoardWidget.qml
+PaneButton 1.0 PaneButton.qml
+HotkeysWidget 1.0 HotkeysWidget.qml
+PhotoFrameWidget 1.0 PhotoFrameWidget.qml
+BatteryWidget 1.0 BatteryWidget.qml
+BrightnessWidget 1.0 BrightnessWidget.qml
+StoneBacking 1.0 StoneBacking.qml
+WoodBacking 1.0 WoodBacking.qml
+ParchmentNote 1.0 ParchmentNote.qml
+SpellbookBacking 1.0 SpellbookBacking.qml
+SunTrackerWidget 1.0 SunTrackerWidget.qml

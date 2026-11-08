@@ -1,0 +1,37 @@
+# Linux Antiquity — mako notification theme.
+# Generated from the Quickshell 'priapus' theme by ~/.config/hypr/theme-apps.py.
+# Don't edit colors here: this file is overwritten on every theme change.
+# Layout settings live in theme-apps.py (the mako() function).
+
+max-visible=5
+sort=-time
+anchor=top-right
+
+width=370
+height=140
+margin=12
+padding=15
+border-size=1
+border-radius=9
+
+font=sans-serif 11
+
+# base with slight transparency / textLight / accentDark
+background-color=#1f211ef0
+text-color=#d0daed
+border-color=#747c5c
+# accent
+progress-color=over #a7b777
+
+default-timeout=6000
+
+[urgency=high]
+# urgent orange border so it stands out, and no timeout.
+border-color=#ff723e
+text-color=#a7b777
+default-timeout=0
+
+[urgency=low]
+# accentDark, quieter and quicker to leave.
+text-color=#747c5c
+default-timeout=4000

@@ -1,0 +1,12 @@
+# Personal settings (holds the OpenWeatherMap API key) — see settings.example.json
+quickshell/settings.json
+quickshell/.qmlls.ini
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Backup snapshots (git history replaces these)
+*.bak
+*.pre-*
+*.auto-attempt

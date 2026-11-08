@@ -1,0 +1,25 @@
+{
+    "settings": {
+        "appLauncherBackground": true,
+        "bar": {
+            "fontSize": 12,
+            "monochromeTrayIcons": true,
+            "trayIconSize": 12,
+            "workspacePadding": 0.032
+        },
+        "currentTheme": "priapus",
+        "defaultWindowRadius": 12,
+        "execCommands": {
+            "files": "nemo",
+            "terminal": "kitty"
+        },
+        "militaryTimeClockFormat": true,
+        "openWeatherMap": {
+            "apiKey": "",
+            "city": "London,GB",
+            "enableWeather": true,
+            "unit": "imperial"
+        },
+        "version": "0.1"
+    }
+}
