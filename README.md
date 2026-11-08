@@ -6,6 +6,45 @@ with five switchable color themes named after Greek gods: **Eris, Eros, Hades, H
 Picking a theme in the Quickshell bar re-colors everything at once: window borders, kitty,
 mako notifications, the mouse cursor, and the app icon set.
 
+![Desktop in the Priapus theme](screenshots/desktop-priapus.jpg)
+
+## Screenshots
+
+### The five themes
+
+| Eris | Eros | Hades |
+|---|---|---|
+| [![Eris](screenshots/desktop-eris.jpg)](screenshots/desktop-eris.jpg) | [![Eros](screenshots/desktop-eros.jpg)](screenshots/desktop-eros.jpg) | [![Hades](screenshots/desktop-hades.jpg)](screenshots/desktop-hades.jpg) |
+| **Helios** | **Priapus** | |
+| [![Helios](screenshots/desktop-helios.jpg)](screenshots/desktop-helios.jpg) | [![Priapus](screenshots/desktop-priapus.jpg)](screenshots/desktop-priapus.jpg) | |
+
+Widgets shown: Cursus Solis, Quest Board, Incantations, the photo frame, Vis Solis, Vis Lunae,
+and the weather badge. The photo and location are blurred in these shots.
+
+### Screensaver: *Mare Antiquum*
+
+Ammonites drift over a trilobite sea floor. It starts after 5 minutes idle via hypridle.
+
+![Mare Antiquum screensaver, Priapus](screenshots/screensaver-priapus.jpg)
+
+<details>
+<summary>Screensaver in every theme</summary>
+
+| Eris | Eros | Hades | Helios |
+|---|---|---|---|
+| ![](screenshots/screensaver-eris.jpg) | ![](screenshots/screensaver-eros.jpg) | ![](screenshots/screensaver-hades.jpg) | ![](screenshots/screensaver-helios.jpg) |
+
+</details>
+
+### Lock screen: *Sealed in Stone*
+
+A carved fossil slab set into the wallpaper. `hypr/lock/make_lock.py` regenerates it for each theme,
+and hyprlock draws the clock and password field into the groove.
+
+| Eris | Hades | Helios | Priapus |
+|---|---|---|---|
+| ![](screenshots/lock-eris.jpg) | ![](screenshots/lock-hades.jpg) | ![](screenshots/lock-helios.jpg) | ![](screenshots/lock-priapus.jpg) |
+
 ## What's here
 
 | Folder | Goes to | What it is |
