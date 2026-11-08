@@ -47,3 +47,14 @@ Then put your own [OpenWeatherMap](https://openweathermap.org/api) API key and c
   They're licensed **CC BY-NC-SA 2.5** (non-commercial, share-alike). See `icons/buuf-nestort/README.md`.
 - **Cursors:** the `*-Cursor` themes and `Gauntlet-Source` are built on the Bibata cursor theme, with gauntlet hands added.
 - Everything else (configs, scripts, the screensaver, the lock screen, and generated wallpapers) is mine.
+
+## Keeping it up to date
+
+`sync.sh` copies the live config from `~/.config` and `~/.local/share/icons` back into this repo,
+commits, and pushes. It skips backups and bytecode, and it won't push if a weather API key is staged.
+
+```sh
+rice-sync                     # sync + commit + push (symlinked into ~/.local/bin)
+rice-sync "new Hades colors"  # with your own commit message
+rice-sync --dry-run           # preview what would change
+```
